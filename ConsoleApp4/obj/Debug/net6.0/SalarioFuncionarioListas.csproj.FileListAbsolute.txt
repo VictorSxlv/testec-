@@ -1,0 +1,14 @@
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\SalarioFuncionarioListas.exe
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\SalarioFuncionarioListas.deps.json
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\SalarioFuncionarioListas.runtimeconfig.json
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\SalarioFuncionarioListas.dll
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\SalarioFuncionarioListas.pdb
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\SalarioFuncionarioListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\SalarioFuncionarioListas.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\SalarioFuncionarioListas.AssemblyInfo.cs
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\SalarioFuncionarioListas.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\SalarioFuncionarioListas.dll
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\refint\SalarioFuncionarioListas.dll
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\SalarioFuncionarioListas.pdb
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\SalarioFuncionarioListas.genruntimeconfig.cache
+C:\Users\Victor\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ref\SalarioFuncionarioListas.dll
